@@ -4,18 +4,18 @@
 
 <h2 align="center"> História das Ideias em Matemática </h2>
 
-<p align="center"> da FCUL, 2026/27 </p>
+<p align="center"> Disciplina de Opção da FCUL, 2026/27 </p>
 
 
 Esta disciplina consiste numa introdução à extensa e notável História da Matemática, com ênfase na discussão das ideias e dos problemas concretos que estiveram na base dos novos conceitos, e das contribuições originais. Não existindo uma forma óptima de seleccionar e organizar o vastíssimo material e bibliografia existente, a seguinte citação de G. W. Leibniz (1646–1716) resume a motivação e os objectivos da presente abordagem:
 
 <em>"É muito útil conhecer as verdadeiras origens das invenções memoráveis, especialmente as que vieram à luz não por acaso, mas pelo poder do raciocínio. Isto não é apenas benéfico para que a história possa dar a cada uma o devido reconhecimento, e outras possam ser igualmente elogiadas, mas também para que a arte da descoberta seja melhorada, aprendendo o método com ilustres exemplos."</em>
 
-Resumo do Programa:<br>
-I – Primórdios e Grécia Antiga (até sec. VI)<br>
-II – Idade Média e Renascimento  (sec. VII – XVI)<br>
-III – Fundamentos da Matemática Moderna (sec. XVII e XVIII)<br> 
-IV – Matemática Moderna (sec. XIX e posterior)
+**Resumo do Programa:**<br>
+I – **Primórdios e Grécia Antiga** (até sec. VI)<br>
+II – **Idade Média e Renascimento**  (sec. VII – XVI)<br>
+III – **Fundamentos da Matemática Moderna** (sec. XVII e XVIII)<br> 
+IV – **Matemática Moderna** (sec. XIX e posterior)
 
 Nas partes III e IV, serão abordadas as mais relevantes contribuições para a Matemática em Portugal. Esta disciplina não tem pré-requisitos, para além das disciplinas formativas de matemática em qualquer licenciatura em Ciências.
 
