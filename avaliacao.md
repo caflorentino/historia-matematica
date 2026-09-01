@@ -1,39 +1,11 @@
 {% include_relative mathjax.html %}
 
-<h2 align="center"> Regras de Avaliação </h2>  
+<h2 align="center"> Método de Avaliação </h2>  
 
-De modo a obter _aprovação_ a esta disciplina é necessário ter uma _nota mínima_ em provas escritas.
-Todos os outros métodos de avaliação são opcionais, e são **fortemente recomendados**, não apenas para subir a nota das provas escritas, como para o **acompanhamento** da matéria durante o semestre e a **preparação atempada** dos diversos momentos de avaliação.
+A avaliação tem em conta 2 Provas Escritas, 6 ou 7 Fichas de Problemas, e Apresentação de Trabalhos nas aulas práticas. Não há exame final.
 
 #### Items de avaliação
 
-- Provas Escritas:
-  - Teste A 
-  - Teste B
-  - Exame 1a Época / 2a Época
+- **Provas Escritas:** Dois Testes de 60 minutos (50%), o primeiro a meio do semestre, o segundo no final.
+- **Avaliação contínua:** Fichas de Problemas, e Apresentação de Trabalhos nas aulas práticas (50%). Haverá fichas de Problemas a cada duas semanas, e dois trabalhos sobre temas de escolha livre, a apresentar ao longo do semestre. 
 
-- Avaliação contínua:
-  - Resolução de [Execícios](exercicios.md)
-
-#### Fórmula de Cálculo da Nota Final $N_F$
-
-$$
-\begin{eqnarray*}
-N_{F}= E + P \frac{20-E}{10} 
-\end{eqnarray*}
-$$
-
-onde $E \in [0, 20]$ é a nota das provas escritas:
-
-$$
-\begin{eqnarray*}
-E = \max\left\{ TA + TB,\ E1, \ E2 \right\} 
-\end{eqnarray*}
-$$
-
-sendo TA e TB, as notas de cada teste (entre 0 e 10), e $P \in [-0.5 , 2.5]$ é a nota da avaliação contínua, que reflete a participação e resolução dos exercícios nas aulas práticas, bem como problemas feitos em casa, e indicados com antecedência pelos professores, semanalmente.
-Cada aluno pode fazer duas vezes o Teste A e duas vezes o Teste B: conta a melhor nota de cada.
-
-**Nota mínima:** Para os alunos cuja avaliação use a nota dos Testes a nota mínima para passagem é 3.5 em cada Teste (TA e TB). 
-
-As notas intermédias são arredondadas às décimas.
