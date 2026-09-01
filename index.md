@@ -11,11 +11,11 @@ Esta disciplina consiste numa introdução à extensa e notável História da Ma
 
 <em>"É muito útil conhecer as verdadeiras origens das invenções memoráveis, especialmente as que vieram à luz não por acaso, mas pelo poder do raciocínio. Isto não é apenas benéfico para que a história possa dar a cada uma o devido reconhecimento, e outras possam ser igualmente elogiadas, mas também para que a arte da descoberta seja melhorada, aprendendo o método com ilustres exemplos."</em>
 
-<bold>Resumo do Programa:</bold><br>
-<bold>I – Primórdios e Grécia Antiga</bold> (até sec. VI)<br>
-<bold>II – Idade Média e Renascimento </bold> (sec. VII – XVI)<br>
-<bold>III – Fundamentos da Matemática Moderna </bold> (sec. XVII e XVIII)<br> 
-<bold>IV – Matemática Moderna </bold> (sec. XIX e posterior)
+Resumo do Programa:<br>
+I – Primórdios e Grécia Antiga (até sec. VI)<br>
+II – Idade Média e Renascimento  (sec. VII – XVI)<br>
+III – Fundamentos da Matemática Moderna (sec. XVII e XVIII)<br> 
+IV – Matemática Moderna (sec. XIX e posterior)
 
 Nas partes III e IV, serão abordadas as mais relevantes contribuições para a Matemática em Portugal. Esta disciplina não tem pré-requisitos, para além das disciplinas formativas de matemática em qualquer licenciatura em Ciências.
 
