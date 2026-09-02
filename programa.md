@@ -12,7 +12,7 @@ Nas partes 3 e 4, serão abordadas as mais relevantes contribuições para a Mat
 
 <h3 align="center"> Bibliografia </h3>
 
-- J. Truss, _Discrete Mathematics for computer scientists_, Addison Wesley, 1999.
+- Victor J. Katz, _A History of Mathematics: An Introduction_, 3rd Edition 2009, Pearson Publ.
 
 ### Programa Detalhado
 
