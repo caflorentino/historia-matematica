@@ -12,10 +12,11 @@ Nas partes 3 e 4, serão abordadas as mais relevantes contribuições para a Mat
 
 <h3 align="center"> Bibliografia </h3>
 
-- Victor J. Katz, _A History of Mathematics: An Introduction_, 3rd Edition 2009, Pearson Publ.
-- Dirk J. Struik, _A Concise History of Mathematics_, 4th Revised Ed, 2000, Dover.
-- Carl B. Boyer, _A History of Mathematics_, 3rd Edition, 2010, Jossey-Bass.
-- Ian Stewart, _The Problems of Mathematics_, 1992, Oxford U. P.
+- Costa, Estrada, Queiró, Sá e Silva, [_História da Matemática_](http://hdl.handle.net/10400.2/10668) (2000) Univ. Aberta.
+- Victor J. Katz, _A History of Mathematics: An Introduction_, 3rd Ed. (2009) Pearson Publ.
+- Dirk J. Struik, _A Concise History of Mathematics_, 4th Revised Ed. (2000) Dover.
+- Carl B. Boyer, _A History of Mathematics_, 3rd Ed. (2010) Jossey-Bass.
+- Ian Stewart, _The Problems of Mathematics_, (1992) Oxford U. P.
 
 
 ### Programa Detalhado
