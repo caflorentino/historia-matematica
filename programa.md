@@ -18,6 +18,10 @@ Nas partes 3 e 4, serão abordadas as mais relevantes contribuições para a Mat
 - Carl B. Boyer, _A History of Mathematics_, 3rd Ed. (2010) Jossey-Bass.
 - Ian Stewart, _The Problems of Mathematics_, (1992) Oxford U. P.
 
+<!-- Links com livros:
+https://online.fliphtml5.com/dyclx/oneu/#p=1
+https://ia801800.us.archive.org/31/items/a-concise-history-of-mathematics/A%20ConciseHistory%20Of%20Mathematics.pdf
+-->
 
 ### Programa Detalhado
 
