@@ -2,9 +2,9 @@
 
 #### Matemáticos Famosos e as suas Épocas
 
+- Tales de Mileto (624 a.C. - 547 a.C.)
 - Pitágoras de Samos (570 a.C. – 490 a.C.)
 - Zenão de Eleia (490 a.C. – 425 a.C.)
-- Eudoxo de Cnido (408 a.C. – 355 a.C.)
 - Euclides de Alexandria (325 a.C. – 265 a.C.)
 - Arquimedes de Siracusa (287 a.C. – 212 a.C.)
 - Apolónio de Perga (262 a.C. – 190 a.C.)
