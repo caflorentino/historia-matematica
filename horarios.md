@@ -2,7 +2,7 @@
 
 ### Aulas Teóricas e Teórico-Práticas
 
-- Terça, 15:30 - 17:30, &emsp; SALA a anunciar em breve
+- Terça, 15:30 - 17:30, &emsp; SALA 6.2.50
 - Sexta, 15:00 - 17:00, &emsp; SALA 8.2.17
 
 ### Horários de Atendimento
