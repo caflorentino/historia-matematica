@@ -3,7 +3,7 @@
 
 ### Fichas de Problemas
 
-- [Ficha 1](Ficha1.pdf) (disponível em breve)
+- [Ficha 1](Ficha1.pdf)
 
 ### Temas para exposição nas aulas TP
 
