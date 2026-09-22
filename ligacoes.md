@@ -1,7 +1,7 @@
 
 <h2 align="center"> Ligações Úteis </h2>  
 
-### Recursos
+#### Recursos
 
 - [A "Álgebra Geométrica" da Babilónia](https://cfloren.wdfiles.com/local--files/historia/Diagram.pdf)
 
