@@ -3,7 +3,7 @@
 
 ### Fichas de Problemas
 
-- [Ficha 1](Ficha1.pdf)
+- [Ficha 1](https://cfloren.wdfiles.com/local--files/historia/Ficha1.pdf)
 
 ### Temas para exposição nas aulas TP
 
