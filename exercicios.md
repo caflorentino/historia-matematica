@@ -3,7 +3,11 @@
 
 ### Fichas de Problemas
 
+- [Ficha 1](Ficha1.pdf) (disponível em breve)
+
 ### Temas para exposição nas aulas TP
+
+Um dos temas para exposição (não mais que 30 minutos) numa das aulas TP é a apresentação da obra matemática de um dos personagens indicados na seguinte [cronologia](https://caflorentino.github.io/historia-matematica/cronologia)
 
 <!--
 #### Parte A: Números
