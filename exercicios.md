@@ -33,3 +33,6 @@ Um dos temas para exposição (não mais que 30 minutos) numa das aulas TP é a 
 
 ### Resumos da Matéria
 
+#### Parte I: Primórdios e Grécia Antiga
+- [Slides da Parte I](http://cfloren.wdfiles.com/local--files/historia/slides_egipto_babilonia.pdf) (Egipto e Babilónia)
+
