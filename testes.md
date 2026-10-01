@@ -5,6 +5,20 @@
 - Teste 1, 30 Out. 2026
 - Teste 2, 11 Dez. 2026
 
+#### Apresentações (personalidades)
+- Runze Zhu, 9/10, Alan Turing
+- Inês Silva, 13/10, Sophie Germain
+- Rita Peres, 13/10, Sophia Kowalevskaya
+- Rodrigo Correia, 13/10, Georg Cantor
+- Ana Rute Moreira, 16/10, Bramagupta
+- Beatriz Segurado, 16/10, Jean-Pierre Serre
+- Salvador Telhada, 16/10, Galileu Galilei
+- Leonor Solano, 16/10, Emmy Noether
+- Yi Fei, 20/10, Fibonacci
+- Guilherme Marques, 20/10, Al Kwarizmi
+- Sara Estévens, 20/10, Hipatia
+
+
 <!--
 #### Enunciados de Testes/Exames de anos anteriores
 
