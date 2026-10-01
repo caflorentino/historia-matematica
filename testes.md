@@ -2,8 +2,8 @@
 <h2 align="center"> Testes e Exames </h2>  
 
 #### Calendário de Provas Escritas
-- Teste 1
-- Teste 2
+- Teste 1, 30 Out. 2026
+- Teste 2, 11 Dez. 2026
 
 <!--
 #### Enunciados de Testes/Exames de anos anteriores
