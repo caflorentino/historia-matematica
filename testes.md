@@ -2,21 +2,21 @@
 <h2 align="center"> Testes e Exames </h2>  
 
 #### Calendário de Provas Escritas
-- Teste 1, 30 Out. 2026
-- Teste 2, 11 Dez. 2026
+- Teste 1 - 30 Out. 2026
+- Teste 2 - 11 Dez. 2026
 
 #### Apresentações (personalidades)
 - Runze Zhu, 9/10, Alan Turing
 - Inês Silva, 13/10, Sophie Germain
-- Rita Peres, 13/10, Sophia Kowalevskaya
+- Rita Peres, 13/10, Sofia Kovalevskaya
 - Rodrigo Correia, 13/10, Georg Cantor
-- Ana Rute Moreira, 16/10, Bramagupta
+- Ana Rute Moreira, 16/10, Brahmagupta
 - Beatriz Segurado, 16/10, Jean-Pierre Serre
 - Salvador Telhada, 16/10, Galileu Galilei
 - Leonor Solano, 16/10, Emmy Noether
-- Yi Fei, 20/10, Fibonacci
-- Guilherme Marques, 20/10, Al Kwarizmi
-- Sara Estévens, 20/10, Hipatia
+- Yi Fei, 20/10, Leonardo Fibonacci
+- Guilherme Marques, 20/10, al-Khwarizmi
+- Sara Estévens, 20/10, Hipátia
 
 
 <!--
