@@ -7,4 +7,4 @@
 
 ### Horários de Atendimento
 
-Horário de atendimento: Sextas-feiras das 10:30 às 11:30
+Horário de atendimento: Quintas-feiras das 10:00 às 11:00
