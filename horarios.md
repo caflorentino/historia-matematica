@@ -7,4 +7,4 @@
 
 ### Horários de Atendimento
 
-Horário de atendimento: Quintas-feiras das 10:00 às 11:00
+Horário de atendimento: Quintas-feiras das 10:00 às 11:00 (Gabinete 6.2.10, ou 6.2.32)
