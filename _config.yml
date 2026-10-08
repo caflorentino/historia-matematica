@@ -17,7 +17,7 @@ navbar-links:
     - Outras Ligações: "ligacoes"
   Avaliação  :
     - Regras de Avaliação: "avaliacao"
-    - Testes e Exames: "testes"
+    - Testes e Apresentações: "testes"
 
 markdown: kramdown
 
