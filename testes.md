@@ -18,6 +18,24 @@
 - Guilherme Marques, 20/10, al-Khwarizmi
 - Sara Estévens, 20/10, Hipátia
 
+#### Apresentações (tópicos)
+- **Pi** : história, uso, e aproximações
+- Proporções e escalas musicais
+- **e** : história e aplicações
+- Evolução dos sistemas de numeração e notações
+- Fórmula resolvente para polinómios de 3º e 4º graus
+- Frações continuadas e aplicações
+- números complexos: origem e aplicações
+- quaterniões: origem e aplicações
+- Fórmula de Euler para poliedros
+- Descoberta das Geometrias não-Euclideanas
+- Topologia: origem e desenvolvimento
+- O princípio de Inclusão-Exclusão
+- Rigor na Análise: construção de reais, convergência, etc
+- O infinito e os paradoxos na Teoria dos Conjuntos
+
+
+
 
 <!--
 #### Enunciados de Testes/Exames de anos anteriores
