@@ -7,7 +7,9 @@
 
 ### Temas para exposição nas aulas TP
 
-Um dos temas para exposição (não mais que 30 minutos) numa das aulas TP é a apresentação da obra matemática de um dos personagens indicados na seguinte [cronologia](https://caflorentino.github.io/historia-matematica/cronologia)
+Um dos temas para exposição (20 minutos, até 5 minutos de perguntas) numa das aulas TP é a apresentação da obra matemática de um dos personagens indicados na seguinte [cronologia](https://caflorentino.github.io/historia-matematica/cronologia).
+
+O outro tema (igualmente 20 minutos, até 5 minutos de perguntas) deve ser escolhido da [listagem de tópicos](https://caflorentino.github.io/historia-matematica/testes) ou ser um outro tema de livre escolha, de interesse na História da Matemática.
 
 <!--
 #### Parte A: Números
