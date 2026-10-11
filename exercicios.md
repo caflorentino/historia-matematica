@@ -3,7 +3,8 @@
 
 ### Fichas de Problemas
 
-- [Ficha 1](https://cfloren.wdfiles.com/local--files/historia/Ficha1.pdf)
+- [Ficha 1](https://cfloren.wdfiles.com/local--files/historia/Ficha1.pdf) (Aritmética Grécia Clássica e Anterior)
+- [Ficha 2](https://cfloren.wdfiles.com/local--files/historia/Ficha2.pdf) (Geometria Grécia Clássica)
 
 ### Temas para exposição nas aulas TP
 
