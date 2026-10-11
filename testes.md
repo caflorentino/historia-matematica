@@ -9,12 +9,12 @@
 - Runze Zhu, 9/10, Alan Turing
 - Inês Silva, 13/10, Sophie Germain
 - Rodrigo Correia, 13/10, Georg Cantor
+- Rita Peres, 13/10, Sofia Kovalevskaya
 - Ana Rute Moreira, 16/10, Brahmagupta
 - Beatriz Segurado, 16/10, Jean-Pierre Serre
 - Salvador Telhada, 16/10, Galileu Galilei
 - Leonor Solano, 16/10, Emmy Noether
 - Yi Fei, 20/10, Leonardo Fibonacci
-- Rita Peres, 13/10, Sofia Kovalevskaya
 - Guilherme Marques, 20/10, al-Khwarizmi
 - Sara Estévens, 20/10, Hipátia
 
