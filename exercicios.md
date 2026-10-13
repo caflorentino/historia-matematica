@@ -40,4 +40,5 @@ O outro tema (igualmente 20 minutos, até 5 minutos de perguntas) deve ser escol
 - [Egipto e Babilónia](http://cfloren.wdfiles.com/local--files/historia/slides_egipto_babilonia.pdf)
 - [Grécia, Parte 1](http://cfloren.wdfiles.com/local--files/historia/Grecia-Parte1.pdf)
 - [Grécia, Parte 2](http://cfloren.wdfiles.com/local--files/historia/Grecia-Parte2.pdf)
+- [Europa, Renascimento](http://cfloren.wdfiles.com/local--files/historia/Europa-XVI.pdf)
 
