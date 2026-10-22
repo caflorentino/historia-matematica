@@ -12,11 +12,12 @@
 - Rita Peres, 16/10, Sofia Kovalevskaya
 - Ana Rute Moreira, 16/10, Brahmagupta
 - Beatriz Segurado, 16/10, Jean-Pierre Serre
-- Salvador Telhada, 16/10, Galileu Galilei
-- Leonor Solano, 20/10, Emmy Noether
-- Yi Fei, 20/10, Leonardo Fibonacci
-- Guilherme Marques, 20/10, al-Khwarizmi
-- Sara Estévens, 20/10, Hipátia
+- Salvador Telhada, 23/10, Galileu Galilei
+- Yi Fei, 23/10, Leonardo Fibonacci
+- Guilherme Marques, 23/10, al-Khwarizmi
+- Rita Agra, 23/10, Paul Erdös
+- Sara Estévens, 27/10, Hipátia
+- Leonor Solano, 27/10, Emmy Noether
 
 #### Apresentações (tópicos)
 - **Pi** : história, uso, e aproximações
