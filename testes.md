@@ -2,19 +2,20 @@
 <h2 align="center"> Testes e Exames </h2>  
 
 #### Calendário de Provas Escritas
-- Teste 1 - 30 Out. 2026
+[Teste 1 Modelo](https://carlos-florentino.wdfiles.com/local--files/historia/Modelo-Teste1.pdf)
+- Teste 1 - 30 Out. 2026, 15h, SALA 6.2.50
 - Teste 2 - 11 Dez. 2026
 
 #### Apresentações (personalidades)
 - Runze Zhu, 9/10, [Alan Turing](https://carlos-florentino.wdfiles.com/local--files/historia/Runze-Zhu.pdf)
-- Inês Silva, 13/10, Sophie Germain
-- Rodrigo Correia, 13/10, [Georg Cantor](https://carlos-florentino.wdfiles.com/local--files/historia/Rodrigo-Correia.pdf)
+- Inês Silva, 13/10, [Sophie Germain](https://carlos-florentino.wdfiles.com/local--files/historia/Sophie-Germain.pdf)
+- Rodrigo Correia, 13/10, [Georg Cantor](https://carlos-florentino.wdfiles.com/local--files/historia/Georg-Cantor.pdf)
 - Rita Peres, 16/10, Sofia Kovalevskaya
 - Ana Rute Moreira, 16/10, Brahmagupta
 - Beatriz Segurado, 16/10, Jean-Pierre Serre
 - Salvador Telhada, 23/10, Galileu Galilei
 - Yi Fei, 23/10, Leonardo Fibonacci
-- Guilherme Marques, 23/10, al-Khwarizmi
+- Guilherme Marques, 23/10, [al-Khwarizmi](https://carlos-florentino.wdfiles.com/local--files/historia/al-Khwarizmi.pdf)
 - Rita Agra, 23/10, Paul Erdös
 - Sara Estévens, 27/10, Hipátia
 - Leonor Solano, 27/10, Emmy Noether
