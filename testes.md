@@ -12,7 +12,7 @@
 - Rodrigo Correia, 13/10, [Georg Cantor](https://carlos-florentino.wdfiles.com/local--files/historia/Georg-Cantor.pdf)
 - Rita Peres, 16/10, Sofia Kovalevskaya
 - Ana Rute Moreira, 16/10, Brahmagupta
-- Beatriz Segurado, 16/10, Jean-Pierre Serre
+- Beatriz Segurado, 16/10, [Jean-Pierre Serre](https://carlos-florentino.wdfiles.com/local--files/historia/Jean-Pierre-Serre.pdf)
 - Salvador Telhada, 23/10, Galileu Galilei
 - Yi Fei, 23/10, Leonardo Fibonacci
 - Guilherme Marques, 23/10, [al-Khwarizmi](https://carlos-florentino.wdfiles.com/local--files/historia/al-Khwarizmi.pdf)
