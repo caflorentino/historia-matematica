@@ -3,8 +3,8 @@
 ### Aulas Teóricas e Teórico-Práticas
 
 - Terça, 15:30 - 17:30, &emsp; SALA 6.2.50
-- Sexta, 15:00 - 17:00, &emsp; SALA 8.2.17
+- Sexta, 15:00 - 17:00, &emsp; SALA 6.2.50
 
 ### Horários de Atendimento
 
-Horário de atendimento: Quintas-feiras das 10:00 às 11:00 (Gabinete 6.2.10, ou 6.2.32)
+Horário de atendimento: Quintas-feiras das 10:00 às 11:00 (Gabinete 6.2.10, ou 6.2.32 (sala dos docentes))
