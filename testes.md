@@ -10,15 +10,15 @@
 - Runze Zhu, 9/10, [Alan Turing](https://carlos-florentino.wdfiles.com/local--files/historia/Runze-Zhu.pdf)
 - Inês Silva, 13/10, [Sophie Germain](https://carlos-florentino.wdfiles.com/local--files/historia/Sophie-Germain.pdf)
 - Rodrigo Correia, 13/10, [Georg Cantor](https://carlos-florentino.wdfiles.com/local--files/historia/Georg-Cantor.pdf)
-- Rita Peres, 16/10, Sofia Kovalevskaya
-- Ana Rute Moreira, 16/10, Brahmagupta
+- Rita Peres, 16/10, [Sofia Kovalevskaya](https://carlos-florentino.wdfiles.com/local--files/historia/Sofia-Kovalevskaya.pdf)
+- Ana Rute Moreira, 16/10, [Brahmagupta](https://carlos-florentino.wdfiles.com/local--files/historia/Brahmagupta.pdf)
 - Beatriz Segurado, 16/10, [Jean-Pierre Serre](https://carlos-florentino.wdfiles.com/local--files/historia/Jean-Pierre-Serre.pdf)
 - Salvador Telhada, 23/10, Galileu Galilei
 - Yi Fei, 23/10, Leonardo Fibonacci
 - Guilherme Marques, 23/10, [al-Khwarizmi](https://carlos-florentino.wdfiles.com/local--files/historia/al-Khwarizmi.pdf)
-- Rita Agra, 23/10, Paul Erdös
+- Rita Agra, 23/10, [Paul Erdös](https://carlos-florentino.wdfiles.com/local--files/historia/Paul-Erdos.pdf)
 - Sara Estévens, 27/10, Hipátia
-- Leonor Solano, 27/10, Emmy Noether
+- Leonor Solano, 27/10, [Emmy Noether](https://carlos-florentino.wdfiles.com/local--files/historia/Emmy-Noether.pdf)
 
 #### Apresentações (tópicos)
 - **Pi** : história, uso, e aproximações
