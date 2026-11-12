@@ -3,7 +3,7 @@
 
 #### Calendário de Provas Escritas
 [Teste 1 Modelo](https://cfloren.wdfiles.com/local--files/historia/Modelo-Teste1.pdf)
-- [Teste 1](https://cfloren.wdfiles.com/local--files/historia/Teste1-R.pdf) (c/ resolução) - 30 Out. 2026, 15:30, SALA 6.2.50
+- [Teste 1](https://cfloren.wdfiles.com/local--files/historia/Teste1-R.pdf) (c/ resolução) - 30 Out. 2026, 15:30, SALA 6.2.50 - [Notas do Teste 1](notas.md)
 - Teste 2 - 11 Dez. 2026
 
 #### Apresentações (personalidades)
