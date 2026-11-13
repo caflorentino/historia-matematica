@@ -17,6 +17,7 @@ Nas partes 3 e 4, serão abordadas as mais relevantes contribuições para a Mat
 - Dirk J. Struik, _A Concise History of Mathematics_, 4th Revised Ed. (2000) Dover.
 - Carl B. Boyer, _A History of Mathematics_, 3rd Ed. (2010) Jossey-Bass.
 - Ian Stewart, _The Problems of Mathematics_, (1992) Oxford U. P.
+- John Stillwell, _Mathematics and its History_, 3rd Ed. (2010) Springer UTM. 
 
 <!-- Links com livros:
 https://online.fliphtml5.com/dyclx/oneu/#p=1
