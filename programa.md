@@ -14,10 +14,11 @@ Nas partes 3 e 4, serão abordadas as mais relevantes contribuições para a Mat
 
 - Costa, Estrada, Queiró, Sá e Silva, [_História da Matemática_](http://hdl.handle.net/10400.2/10668) (2000) Univ. Aberta.
 - Victor J. Katz, _A History of Mathematics: An Introduction_, 3rd Ed. (2009) Pearson Publ.
-- Dirk J. Struik, _A Concise History of Mathematics_, 4th Revised Ed. (2000) Dover.
 - Carl B. Boyer, _A History of Mathematics_, 3rd Ed. (2010) Jossey-Bass.
+- David Richeson, _Euler's Gem: The Polyhedron Formula and the Birth of Topology_ (2012) Princeton U. P. 
 - Ian Stewart, _The Problems of Mathematics_, (1992) Oxford U. P.
 - John Stillwell, _Mathematics and its History_, 3rd Ed. (2010) Springer UTM. 
+- Dirk J. Struik, _A Concise History of Mathematics_, 4th Revised Ed. (2000) Dover.
 
 <!-- Links com livros:
 https://online.fliphtml5.com/dyclx/oneu/#p=1
