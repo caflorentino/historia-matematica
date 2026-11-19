@@ -14,10 +14,10 @@
 - Ana Rute Moreira, 16/10, [Brahmagupta](https://carlos-florentino.wdfiles.com/local--files/historia/Brahmagupta.pdf)
 - Beatriz Segurado, 16/10, [Jean-Pierre Serre](https://carlos-florentino.wdfiles.com/local--files/historia/Jean-Pierre-Serre.pdf)
 - Salvador Telhada, 23/10, Galileu Galilei
-- Yi Fei, 23/10, Leonardo Fibonacci
+- Yi Fei, 23/10, [Leonardo Fibonacci](https://carlos-florentino.wdfiles.com/local--files/historia/Fibonacci.pdf)
 - Guilherme Marques, 23/10, [al-Khwarizmi](https://carlos-florentino.wdfiles.com/local--files/historia/al-Khwarizmi.pdf)
 - Rita Agra, 23/10, [Paul Erdös](https://carlos-florentino.wdfiles.com/local--files/historia/Paul-Erdos.pdf)
-- Sara Estévens, 27/10, Hipátia
+- Sara Estévens, 27/10, [Hipátia](https://carlos-florentino.wdfiles.com/local--files/historia/Hipatia.pdf)
 - Leonor Solano, 27/10, [Emmy Noether](https://carlos-florentino.wdfiles.com/local--files/historia/Emmy-Noether.pdf)
 
 #### Apresentações (tópicos)
