@@ -21,32 +21,6 @@
 - Leonor Solano, 27/10, [Emmy Noether](https://carlos-florentino.wdfiles.com/local--files/historia/Emmy-Noether.pdf)
 
 #### Apresentações (tópicos)
-- **Pi** : história, uso, e aproximações
-- Proporções e escalas musicais
-- **e** : história e aplicações
-- Sistemas de numeração, notações, e seu impacto
-- Fórmula resolvente para polinómios de 3º e 4º graus
-- Frações continuadas e aplicações
-- Números complexos: origem e aplicações
-- Resolução de equações polinomiais de grau maior que 4
-- Quaterniões: origem e aplicações
-- Fórmula de Euler para poliedros
-- Descoberta das Geometrias não-Euclideanas
-- O nascimento da teoria de Grupos
-- Álgebra Linear: origens e aplicações
-- Topologia: origem e desenvolvimento
-- Classificação das superfícies compactas
-- O princípio de Inclusão-Exclusão
-- Criptografia com teoria de números
-- Rigor na Análise: construção de reais, convergência, etc
-- O infinito e os paradoxos na Teoria dos Conjuntos
-- Os problemas de Hilbert
-- A conjectura de Poincaré
-- A hipótese de Riemann
-- A conjectura de Birch e Swinnerton-Dyer
-- Complexidade computacional: P versus NP
-- A conjectura de Hodge
-- Existência e suavidade das equações de Navier-Stokes
 
 
 <!--
