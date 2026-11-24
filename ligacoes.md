@@ -7,6 +7,7 @@
 - [Continued Fraction online calculator](https://www.alpertron.com.ar/CONTFRAC.HTM)
 - [Escalas Musiciais - da pitagórica à temperada](https://revistacienciaecultura.org.br/?artigos=uma-introducao-a-matematica-e-a-fisica-das-escalas-musicais)
 - [Os Elementos de Euclides](https://mathcs.clarku.edu/~djoyce/java/elements/elements.html)
+- [Daniel Augusto da Silva - Poet of Mathematics](https://www.cim.pt/magazines/bulletin/2/article/17/pdf)
 
 
 #### Websites
