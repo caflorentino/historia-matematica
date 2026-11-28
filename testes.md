@@ -21,7 +21,15 @@
 - Leonor Solano, 27/10, [Emmy Noether](https://carlos-florentino.wdfiles.com/local--files/historia/Emmy-Noether.pdf)
 
 #### Apresentações (tópicos)
-
+- Rita Agra, Proporções e escalas musicais, 27/11
+- Inês Silva, Criptografia e teoria dos números, 4/12
+- Rodrigo Correia, Poliedros e a fórmula de Euler, 4/12
+- Yi Fei, O princípio de Inclusão-Exclusão, 4/12
+- Sara Estevéns, O teorema das 4 cores, 15/12
+- Guilherme Marques, 18/12
+- Runze Zhu, o nascimento da teoria de grupos, 18/12
+- Ana Rute, a história dos números primos, 18/12
+- Leonor Solano, Classificação das superfícies compactas
 
 <!--
 #### Enunciados de Testes/Exames de anos anteriores
