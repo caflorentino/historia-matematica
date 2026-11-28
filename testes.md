@@ -27,8 +27,8 @@
 - Yi Fei, O princípio de Inclusão-Exclusão, 4/12
 - Sara Estevéns, O teorema das 4 cores, 15/12
 - Guilherme Marques, 18/12
-- Runze Zhu, o nascimento da teoria de grupos, 18/12
-- Ana Rute, a história dos números primos, 18/12
+- Runze Zhu, O nascimento da teoria de Grupos, 18/12
+- Ana Rute, A História dos números Primos, 18/12
 - Leonor Solano, Classificação das superfícies compactas
 
 <!--
